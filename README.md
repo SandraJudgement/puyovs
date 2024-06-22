@@ -1,7 +1,7 @@
 # Puyo VS [![Build](https://github.com/puyonexus/puyovs/actions/workflows/compile.yml/badge.svg)](https://github.com/puyonexus/puyovs/actions/workflows/compile.yml) [![Chat](https://img.shields.io/discord/991434636657971323?label=Chat)](https://discord.gg/cnUzgbFEXX)
 
 Welcome to the Puyo VS 2 source code.
-
+　
 Puyo VS 2 was originally written by [Hernan](https://twitter.com/HernanZh/) with some contributions from other developers.
 
 We hope that the community can benefit from this release and build a robust future for Puyo VS.
